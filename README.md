@@ -7,7 +7,7 @@ Add proxy
 
 ## Install
 ```sh
-git clone https://github.com/LSD00/HTTP-Flood
+git clone https://github.com/QuangTruong05/ddos.git
 cd HTTP-Flood
 go mod init http 
 go get github.com/valyala/fasthttp
@@ -24,5 +24,3 @@ example: ./http http://51.159.30.249 POST 1500
 ![alt-text](https://i.imgur.com/2WQ4jk6.png)
 ### Cloudflare-Low 
 ![alt-text](https://i.imgur.com/8bxScW1.png)
-## Donate 
-btc: 3JzWqmqH6YwXVVoBWsTuSgJg3qQXNHcgPp
